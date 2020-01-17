@@ -4,25 +4,42 @@
     <title>AJAX XML</title>    
 <body>
 
-    <h2>Read XML file using AJAX</h2>
-
-    <button id="send" type="button">Get Books</button>
-    <h2 id="tableTitle">List of Books</h2>
-
-    <div id="displayData">
-        <table id="demo">
-            <thead>
-                <tr>
-                    <th id="index" class="selected">#</th>
-                    <th id="author">Author</th>
-                    <th id="title">Title</th>
-                    <th id="price">Price</th>
-                    <th id="year">Year</th>
-                </tr>
-            </thead>
-            <tbody id="tableBody"></tbody>
-        </table>
-    </div>
+    <header>
+        <div class="header-title">
+            <h2>Read XML file using AJAX</h2>
+        </div>
+        <div class="header-btn">
+            <button id="send" type="button">Get Books</button>
+        </div>
+    </header>
+    
+    <section id="page-desc" class="description">
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate iusto, mollitia dignissimos suscipit, odio necessitatibus dolorem molestias molestiae nulla voluptatibus ut rerum laborum quisquam dolor ipsa totam. Consectetur eum similique non? Vero facere maxime, sequi labore quae dignissimos eos numquam!</p>
+    </section>
+    <div id="result-container" class="container">
+        <div class="container-header">
+            <div class="headerTitle">
+                <h2 id="tableTitle">List of Books</h2>
+            </div>
+            <div id="searchTitle">
+                <input type="search" placeholder="Search a title">
+            </div>    
+        </div>
+        <div id="displayData">
+            <table id="demo">
+                <thead>
+                    <tr>
+                        <th id="index" class="selected">#</th>
+                        <th id="author">Author</th>
+                        <th id="title">Title</th>
+                        <th id="price">Price</th>
+                        <th id="year">Year</th>
+                    </tr>
+                </thead>
+                <tbody id="tableBody"></tbody>
+            </table>
+        </div>
+    </div>    
     <script src="plugins.js"></script>
 
 </body>

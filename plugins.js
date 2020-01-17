@@ -64,8 +64,8 @@ function displayResult(xml) {
     table.appendChild(tbody);
 
     // show the table and title
-    table.style.display = "table";
-    document.getElementById("tableTitle").style.display = "block";
+    document.getElementById("page-desc").style.display = "none";
+    document.getElementById("result-container").style.display = "block";
 }
 
 // on th Click sort the table and change the style

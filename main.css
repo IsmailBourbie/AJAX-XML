@@ -13,23 +13,60 @@ button#send:hover {
     opacity: .9;
 }
 
-button#send:focus {
+button:focus, input:focus {
     outline: none;
 }
-h2#tableTitle {
+
+section {
+    width: 50%;
+    margin: 160px auto;
+}
+section p {
     text-align: center;
-    margin-top: 0px;
+    font-size: 20px;
+    line-height: 1.5em;
+    word-spacing: .1em;
+    color: #676767;
+}
+div.container {
+    width: 80%;
+    margin: auto;
     display: none;
 }
+div.container .container-header, header {
+    overflow: hidden;
+    margin-top: 20px;
+}
+div.container .container-header .headerTitle, header .header-title{
+    float: left;
+}
+
+div.container .container-header .headerTitle h2, header .header-title h2{
+    margin: 0;
+}
+
+div.container .container-header .searchTitle, header .header-btn{
+    float: right;
+}
+div#searchTitle {
+    margin: auto;
+    text-align: center;
+    float: right;
+}
+
+div#searchTitle input {
+    padding: 10px 5px;
+    width: 200px;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+}
+
 div#displayData table {    
     width: 100%;
-    display: none;
     border-collapse: collapse;
     border-spacing: 0;
 }
 div#displayData {
-    margin: auto;
-    width: 80%;
     border-radius: 8px;
     margin-top: 20px;
     overflow-y: auto;
