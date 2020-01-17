@@ -2,7 +2,7 @@
 <CATALOG>
   <BOOK>
     <TITLE>Empire Burlesque</TITLE>
-    <ARTIST>Bob Dylan</ARTIST>
+    <AUTHOR>Bob Dylan</AUTHOR>
     <COUNTRY>USA</COUNTRY>
     <COMPANY>Columbia</COMPANY>
     <PRICE>10.90</PRICE>
@@ -10,7 +10,7 @@
   </BOOK>
   <BOOK>
     <TITLE>Hide your heart</TITLE>
-    <ARTIST>Bonnie Tyler</ARTIST>
+    <AUTHOR>Bonnie Tyler</AUTHOR>
     <COUNTRY>UK</COUNTRY>
     <COMPANY>CBS Records</COMPANY>
     <PRICE>9.90</PRICE>
@@ -18,7 +18,7 @@
   </BOOK>
   <BOOK>
     <TITLE>Greatest Hits</TITLE>
-    <ARTIST>Dolly Parton</ARTIST>
+    <AUTHOR>Dolly Parton</AUTHOR>
     <COUNTRY>USA</COUNTRY>
     <COMPANY>RCA</COMPANY>
     <PRICE>9.90</PRICE>
@@ -26,7 +26,7 @@
   </BOOK>
   <BOOK>
     <TITLE>Still got the blues</TITLE>
-    <ARTIST>Gary Moore</ARTIST>
+    <AUTHOR>Gary Moore</AUTHOR>
     <COUNTRY>UK</COUNTRY>
     <COMPANY>Virgin records</COMPANY>
     <PRICE>10.20</PRICE>
@@ -34,7 +34,7 @@
   </BOOK>
   <BOOK>
     <TITLE>Eros</TITLE>
-    <ARTIST>Eros Ramazzotti</ARTIST>
+    <AUTHOR>Eros Ramazzotti</AUTHOR>
     <COUNTRY>EU</COUNTRY>
     <COMPANY>BMG</COMPANY>
     <PRICE>9.90</PRICE>
@@ -42,7 +42,7 @@
   </BOOK>
   <BOOK>
     <TITLE>One night only</TITLE>
-    <ARTIST>Bee Gees</ARTIST>
+    <AUTHOR>Bee Gees</AUTHOR>
     <COUNTRY>UK</COUNTRY>
     <COMPANY>Polydor</COMPANY>
     <PRICE>10.90</PRICE>
@@ -50,7 +50,7 @@
   </BOOK>
   <BOOK>
     <TITLE>Sylvias Mother</TITLE>
-    <ARTIST>Dr.Hook</ARTIST>
+    <AUTHOR>Dr.Hook</AUTHOR>
     <COUNTRY>UK</COUNTRY>
     <COMPANY>CBS</COMPANY>
     <PRICE>8.10</PRICE>
@@ -58,7 +58,7 @@
   </BOOK>
   <BOOK>
     <TITLE>Maggie May</TITLE>
-    <ARTIST>Rod Stewart</ARTIST>
+    <AUTHOR>Rod Stewart</AUTHOR>
     <COUNTRY>UK</COUNTRY>
     <COMPANY>Pickwick</COMPANY>
     <PRICE>8.50</PRICE>
@@ -66,7 +66,7 @@
   </BOOK>
   <BOOK>
     <TITLE>Romanza</TITLE>
-    <ARTIST>Andrea Bocelli</ARTIST>
+    <AUTHOR>Andrea Bocelli</AUTHOR>
     <COUNTRY>EU</COUNTRY>
     <COMPANY>Polydor</COMPANY>
     <PRICE>10.80</PRICE>
@@ -74,7 +74,7 @@
   </BOOK>
   <BOOK>
     <TITLE>When a man loves a woman</TITLE>
-    <ARTIST>Percy Sledge</ARTIST>
+    <AUTHOR>Percy Sledge</AUTHOR>
     <COUNTRY>USA</COUNTRY>
     <COMPANY>Atlantic</COMPANY>
     <PRICE>8.70</PRICE>
@@ -82,7 +82,7 @@
   </BOOK>
   <BOOK>
     <TITLE>Black angel</TITLE>
-    <ARTIST>Savage Rose</ARTIST>
+    <AUTHOR>Savage Rose</AUTHOR>
     <COUNTRY>EU</COUNTRY>
     <COMPANY>Mega</COMPANY>
     <PRICE>10.90</PRICE>
@@ -90,7 +90,7 @@
   </BOOK>
   <BOOK>
     <TITLE>1999 Grammy Nominees</TITLE>
-    <ARTIST>Many</ARTIST>
+    <AUTHOR>Many</AUTHOR>
     <COUNTRY>USA</COUNTRY>
     <COMPANY>Grammy</COMPANY>
     <PRICE>10.20</PRICE>
@@ -98,7 +98,7 @@
   </BOOK>
   <BOOK>
     <TITLE>For the good times</TITLE>
-    <ARTIST>Kenny Rogers</ARTIST>
+    <AUTHOR>Kenny Rogers</AUTHOR>
     <COUNTRY>UK</COUNTRY>
     <COMPANY>Mucik Master</COMPANY>
     <PRICE>8.70</PRICE>
@@ -106,7 +106,7 @@
   </BOOK>
   <BOOK>
     <TITLE>Big Willie style</TITLE>
-    <ARTIST>Will Smith</ARTIST>
+    <AUTHOR>Will Smith</AUTHOR>
     <COUNTRY>USA</COUNTRY>
     <COMPANY>Columbia</COMPANY>
     <PRICE>9.90</PRICE>
@@ -114,7 +114,7 @@
   </BOOK>
   <BOOK>
     <TITLE>Tupelo Honey</TITLE>
-    <ARTIST>Van Morrison</ARTIST>
+    <AUTHOR>Van Morrison</AUTHOR>
     <COUNTRY>UK</COUNTRY>
     <COMPANY>Polydor</COMPANY>
     <PRICE>8.20</PRICE>
@@ -122,7 +122,7 @@
   </BOOK>
   <BOOK>
     <TITLE>Soulsville</TITLE>
-    <ARTIST>Jorn Hoel</ARTIST>
+    <AUTHOR>Jorn Hoel</AUTHOR>
     <COUNTRY>Norway</COUNTRY>
     <COMPANY>WEA</COMPANY>
     <PRICE>7.90</PRICE>
@@ -130,7 +130,7 @@
   </BOOK>
   <BOOK>
     <TITLE>The very best of</TITLE>
-    <ARTIST>Cat Stevens</ARTIST>
+    <AUTHOR>Cat Stevens</AUTHOR>
     <COUNTRY>UK</COUNTRY>
     <COMPANY>Island</COMPANY>
     <PRICE>8.90</PRICE>
@@ -138,7 +138,7 @@
   </BOOK>
   <BOOK>
     <TITLE>Stop</TITLE>
-    <ARTIST>Sam Brown</ARTIST>
+    <AUTHOR>Sam Brown</AUTHOR>
     <COUNTRY>UK</COUNTRY>
     <COMPANY>A and M</COMPANY>
     <PRICE>8.90</PRICE>
@@ -146,7 +146,7 @@
   </BOOK>
   <BOOK>
     <TITLE>Bridge of Spies</TITLE>
-    <ARTIST>T'Pau</ARTIST>
+    <AUTHOR>T'Pau</AUTHOR>
     <COUNTRY>UK</COUNTRY>
     <COMPANY>Siren</COMPANY>
     <PRICE>7.90</PRICE>
@@ -154,7 +154,7 @@
   </BOOK>
   <BOOK>
     <TITLE>Private Dancer</TITLE>
-    <ARTIST>Tina Turner</ARTIST>
+    <AUTHOR>Tina Turner</AUTHOR>
     <COUNTRY>UK</COUNTRY>
     <COMPANY>Capitol</COMPANY>
     <PRICE>8.90</PRICE>
@@ -162,7 +162,7 @@
   </BOOK>
   <BOOK>
     <TITLE>Midt om natten</TITLE>
-    <ARTIST>Kim Larsen</ARTIST>
+    <AUTHOR>Kim Larsen</AUTHOR>
     <COUNTRY>EU</COUNTRY>
     <COMPANY>Medley</COMPANY>
     <PRICE>7.80</PRICE>
@@ -170,7 +170,7 @@
   </BOOK>
   <BOOK>
     <TITLE>Pavarotti Gala Concert</TITLE>
-    <ARTIST>Luciano Pavarotti</ARTIST>
+    <AUTHOR>Luciano Pavarotti</AUTHOR>
     <COUNTRY>UK</COUNTRY>
     <COMPANY>DECCA</COMPANY>
     <PRICE>9.90</PRICE>
@@ -178,7 +178,7 @@
   </BOOK>
   <BOOK>
     <TITLE>The dock of the bay</TITLE>
-    <ARTIST>Otis Redding</ARTIST>
+    <AUTHOR>Otis Redding</AUTHOR>
     <COUNTRY>USA</COUNTRY>
     <COMPANY>Stax Records</COMPANY>
     <PRICE>7.90</PRICE>
@@ -186,7 +186,7 @@
   </BOOK>
   <BOOK>
     <TITLE>Picture book</TITLE>
-    <ARTIST>Simply Red</ARTIST>
+    <AUTHOR>Simply Red</AUTHOR>
     <COUNTRY>EU</COUNTRY>
     <COMPANY>Elektra</COMPANY>
     <PRICE>7.20</PRICE>
@@ -194,7 +194,7 @@
   </BOOK>
   <BOOK>
     <TITLE>Red</TITLE>
-    <ARTIST>The Communards</ARTIST>
+    <AUTHOR>The Communards</AUTHOR>
     <COUNTRY>UK</COUNTRY>
     <COMPANY>London</COMPANY>
     <PRICE>7.80</PRICE>
@@ -202,7 +202,7 @@
   </BOOK>
   <BOOK>
     <TITLE>Unchain my heart</TITLE>
-    <ARTIST>Joe Cocker</ARTIST>
+    <AUTHOR>Joe Cocker</AUTHOR>
     <COUNTRY>USA</COUNTRY>
     <COMPANY>EMI</COMPANY>
     <PRICE>8.20</PRICE>

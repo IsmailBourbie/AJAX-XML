@@ -38,21 +38,21 @@ function displayResult(xml) {
         // Create Row of table and Column
         var tr = document.createElement('tr'),
             tdIndex = document.createElement('td'),
-            tdArtist = document.createElement('td'),
+            tdAuthor = document.createElement('td'),
             tdTitle = document.createElement('td'),
             tdPrice = document.createElement('td'),
             tdYear = document.createElement('td');
 
             // append returned data to created columns 
             tdIndex.append(i+1);
-            tdArtist.append(x[i].getElementsByTagName("ARTIST")[0].childNodes[0].nodeValue);
+            tdAuthor.append(x[i].getElementsByTagName("AUTHOR")[0].childNodes[0].nodeValue);
             tdTitle.append(x[i].getElementsByTagName("TITLE")[0].childNodes[0].nodeValue);
             tdPrice.append(x[i].getElementsByTagName("PRICE")[0].childNodes[0].nodeValue);
             tdYear.append(x[i].getElementsByTagName("YEAR")[0].childNodes[0].nodeValue);
 
             // append columns to row 
             tr.appendChild(tdIndex);
-            tr.appendChild(tdArtist);
+            tr.appendChild(tdAuthor);
             tr.appendChild(tdTitle);
             tr.appendChild(tdPrice);
             tr.appendChild(tdYear);
@@ -63,6 +63,7 @@ function displayResult(xml) {
     // append Tbody to the demo table
     table.appendChild(tbody);
 
-    // show the table
+    // show the table and title
     table.style.display = "table";
+    document.getElementById("tableTitle").style.display = "block";
 }

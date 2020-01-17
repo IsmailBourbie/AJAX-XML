@@ -16,20 +16,33 @@ button#send:hover {
 button#send:focus {
     outline: none;
 }
-div#displayData table {
-    margin: auto;
+h2#tableTitle {
+    text-align: center;
+    margin-top: 0px;
+    display: none;
 }
-table {
-    width: 80%;
+div#displayData table {    
+    width: 100%;
     display: none;
     border-collapse: collapse;
     border-spacing: 0;
+}
+div#displayData {
+    margin: auto;
+    width: 80%;
+    border-radius: 8px;
+    margin-top: 20px;
+    overflow-y: auto;
+    max-height: 430px;
 }
 table, th, td {
    text-align: left;
 }
 thead tr th {
     border-bottom: 2px solid #DDD;
+    position: sticky;
+    top: 0;
+    background: #8AD47F;    
 }
 tbody tr td {
     border-bottom: 1px solid #DDD;
