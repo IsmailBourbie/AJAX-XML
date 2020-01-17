@@ -53,3 +53,11 @@ th, td {
     line-height: 1.42857143;
     vertical-align: top;
 }
+
+th {
+    cursor: pointer;
+}
+
+th.selected {
+    background-color: #58a94c;
+}
