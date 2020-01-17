@@ -5,7 +5,7 @@ function loadDoc() {
             myFunction(this);
         }
     };
-    xhttp.open("GET", "cd_catalog.xml", true);
+    xhttp.open("GET", "book_catalog.xml", true);
     xhttp.send();
 }
 function myFunction(xml) {
@@ -14,7 +14,7 @@ function myFunction(xml) {
 
     console.log(xml);
     var content = "";
-    var x = xmlDoc.getElementsByTagName("CD");
+    var x = xmlDoc.getElementsByTagName("BOOK");
     for (i = 0; i < x.length; i++) {
         content += "<tr><td>" +
             (i+1) + "</td><td>" +
